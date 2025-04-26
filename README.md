@@ -37,8 +37,8 @@ This is a simple 2D platformer game built using JavaScript and HTML5 Canvas. The
 
 ## Screenshots
 
-![Screenshot 1](https://i.hizliresim.com/quarqv9.PNG)
-![Screenshot 2](https://i.hizliresim.com/c9rzi04.PNG)
+![Screenshot 1](/jsgame.jpeg)
+![Screenshot 2](/jsgame2.jpeg)
 
 ## How to Run
 
