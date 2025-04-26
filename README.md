@@ -9,7 +9,6 @@ This is a simple 2D platformer game built using JavaScript and HTML5 Canvas. The
 - **Enemies**: Avoid enemies to prevent losing the game.
 - **Energy System**: Manage your energy while jumping and moving.
 - **Responsive Controls**: Use arrow keys to move and jump.
-- **Background Music and Sound Effects**: Enjoy background music and sound effects for actions like jumping, collecting diamonds, and losing the game.
 
 ## Controls
 
