@@ -1,5 +1,52 @@
 # Javascript-Game-Project
-My first javascript game project with canvas
-## Images
+
+This is a simple 2D platformer game built using JavaScript and HTML5 Canvas. The game features multiple levels, collectible items, and enemies. Players control a character to navigate through platforms, collect diamonds, and avoid enemies.
+
+## Features
+
+- **Multiple Levels**: Progress through different levels with increasing difficulty.
+- **Collectibles**: Collect diamonds to increase your score.
+- **Enemies**: Avoid enemies to prevent losing the game.
+- **Energy System**: Manage your energy while jumping and moving.
+- **Responsive Controls**: Use arrow keys to move and jump.
+- **Background Music and Sound Effects**: Enjoy background music and sound effects for actions like jumping, collecting diamonds, and losing the game.
+
+## Controls
+
+- **Arrow Keys**:
+  - Left Arrow: Move left
+  - Right Arrow: Move right
+  - Up Arrow: Jump
+
+## How to Play
+
+1. Open `index.html` in your browser.
+2. Click the "OYUNA BAŞLA" button to start the game.
+3. Use the arrow keys to navigate the character.
+4. Collect diamonds to increase your score.
+5. Avoid falling off platforms or colliding with enemies.
+6. Progress through levels by reaching the end of each section.
+
+## File Structure
+
+- **`index.html`**: The main HTML file containing the game layout and buttons.
+- **`javascript.js`**: The core game logic, including character movement, level design, and collision detection.
+- **`character/`**: Contains character sprites.
+- **`Oyun/`**: Contains game-related images like the start screen and award.
+- **`tile/`**: Contains tile images used for platforms and collectibles.
+
+## Screenshots
+
 ![Screenshot 1](https://i.hizliresim.com/quarqv9.PNG)
 ![Screenshot 2](https://i.hizliresim.com/c9rzi04.PNG)
+
+## How to Run
+
+1. Clone or download the repository.
+2. Open `index.html` in your browser.
+3. Enjoy the game!
+
+## Credits
+
+- **Tools Used**: JavaScript, HTML5 Canvas, CSS
+- **Assets**: Custom sprites.
